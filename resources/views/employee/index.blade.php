@@ -158,10 +158,5 @@
                 </div>
             </div>
         </div>
-        <div class="row mb-0">
-            <div class="col-lg-9 col-xl-6">
-                <h4 class="mb-3">{{ $pageTitle }}</h4>
-            </div>
-        </div>
     </div>
 @endsection
